@@ -13,6 +13,7 @@
 
   <modules>
     <module>design-01</module>
+    <module>design-02</module>
   </modules>
 
   <dependencies>
