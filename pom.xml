@@ -25,6 +25,7 @@
     <module>design-10</module>
     <module>design-11</module>
     <module>design-12</module>
+    <module>design-13</module>
   </modules>
 
   <dependencyManagement>
